@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: coral;
+}
+table{
+    margin-left: 300px ;
+}
+th{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    background-color: white 0;
+
+}
+
+
+td{
+    text-align: center;
+    margin-left: 90px;
+    width: 70px;
+    height: 70px;
+}
+
+.black{
+    background-color: black;
+}
+
+.wheat{
+    background-color: wheat;
+}
+
+.first-column{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    background-color: white 0;
+}
+
+
